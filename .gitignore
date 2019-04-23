@@ -31,11 +31,11 @@ ehthumbs.db
 # ============================================================================ #
 */[Tt]emp/
 */[Ll]ibrary/
+*/[Pp]ackages/
 */[Oo]bj/
 */sysinfo.txt
 */*.stackdump
-*/[Bb]uild/
-*/[Pp]ackages/
+
 
 # Unity3D generated meta files
 *.pidb.meta
