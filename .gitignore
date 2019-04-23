@@ -34,8 +34,8 @@ ehthumbs.db
 */[Oo]bj/
 */sysinfo.txt
 */*.stackdump
-*/Build
-*/Packages
+*/[Bu]ild/
+*/[Pa]ckages/
 
 # Unity3D generated meta files
 *.pidb.meta
